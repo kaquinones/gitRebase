@@ -1,3 +1,0 @@
-create file1
-
-update file1
